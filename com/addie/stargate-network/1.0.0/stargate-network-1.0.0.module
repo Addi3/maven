@@ -1,0 +1,117 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.addie",
+    "module": "stargate-network",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.1.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "stargate-network-1.0.0.jar",
+          "url": "stargate-network-1.0.0.jar",
+          "size": 257120,
+          "sha512": "c80aa9543fec34c651a58a411ea0d5ae4e169f4311d49cb2605075d62917b54239730f5accb39c949fff217306c41beea9f8c36b5b275bc9a3ef576f5cb0a84f",
+          "sha256": "34078215ca9da91bb82c1dcca5184846e1f1dad8f25d7d5c86cfb0be85fe9005",
+          "sha1": "7470d6d08db9d604a3a5fd6131da395ba4fc0e41",
+          "md5": "b0cf18f1cdf275df95ef9c4bfbcd4efc"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.17.3"
+          }
+        },
+        {
+          "group": "dev.drtheo",
+          "module": "scheduler",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "dev.drtheo",
+          "module": "queue",
+          "version": {
+            "requires": "1.1.0-1.20"
+          }
+        },
+        {
+          "group": "com.github.amblelabs",
+          "module": "modkit",
+          "version": {
+            "requires": "1d67a7a312"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.92.6+1.20.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "stargate-network-1.0.0.jar",
+          "url": "stargate-network-1.0.0.jar",
+          "size": 257120,
+          "sha512": "c80aa9543fec34c651a58a411ea0d5ae4e169f4311d49cb2605075d62917b54239730f5accb39c949fff217306c41beea9f8c36b5b275bc9a3ef576f5cb0a84f",
+          "sha256": "34078215ca9da91bb82c1dcca5184846e1f1dad8f25d7d5c86cfb0be85fe9005",
+          "sha1": "7470d6d08db9d604a3a5fd6131da395ba4fc0e41",
+          "md5": "b0cf18f1cdf275df95ef9c4bfbcd4efc"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "stargate-network-1.0.0-sources.jar",
+          "url": "stargate-network-1.0.0-sources.jar",
+          "size": 214469,
+          "sha512": "d1cec762275588e37b1685ae260b2c2633110c9049109ec56864fcad1ce552e8c8f282a14bda37863705962eab89a43d37152f92dc43a1f2d991b132442267b7",
+          "sha256": "52af0694f90e389088424bf14a6174b447a2f585905965ae8fb1f71d20d2e24c",
+          "sha1": "a4eff53c4b6f32811647fc0b9f779d4e618a9aac",
+          "md5": "d9913b7b4a03b2d741f8f81353e64701"
+        }
+      ]
+    }
+  ]
+}
