@@ -1,0 +1,125 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com",
+    "module": "ait-extras",
+    "version": "1.1.0-feat-clothes-dev+mc.1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
+          "url": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
+          "size": 12815152,
+          "sha512": "b4567a2169f3c8568b42c858d59725ef0d0ccb03cf9dfc0ced6ddcedd0856c684686e793e78f668feb169494365eae40ae99b070c6b6727205005e3a797a00b5",
+          "sha256": "2225fae67583f3322f25752d0f8539581d6e5822da4701f6cf03062e1f3d6c4b",
+          "sha1": "80126de38e87d6337eae4a2d4a658cb6d9b41e98",
+          "md5": "d467f55443fb76512df57192e57e2ffb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.objecthunter",
+          "module": "exp4j",
+          "version": {
+            "requires": "0.4.8"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.16.10"
+          }
+        },
+        {
+          "group": "dev.drtheo",
+          "module": "multidim",
+          "version": {
+            "requires": "2.1.4"
+          }
+        },
+        {
+          "group": "dev.emi",
+          "module": "trinkets",
+          "version": {
+            "requires": "3.7.0"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.92.3+1.20.1"
+          }
+        },
+        {
+          "group": "dev.amble",
+          "module": "ait",
+          "version": {
+            "requires": "1.2.13-dev+mc.1.20.1"
+          }
+        },
+        {
+          "group": "dev.isxander",
+          "module": "yet-another-config-lib",
+          "version": {
+            "requires": "3.6.1+1.20.1-fabric"
+          }
+        },
+        {
+          "group": "mezz.jei",
+          "module": "jei-1.20.1-fabric-api",
+          "version": {
+            "requires": "15.20.0.112"
+          }
+        },
+        {
+          "group": "maven.modrinth",
+          "module": "jei",
+          "version": {
+            "requires": "15.20.0.112"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
+          "url": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
+          "size": 12815152,
+          "sha512": "b4567a2169f3c8568b42c858d59725ef0d0ccb03cf9dfc0ced6ddcedd0856c684686e793e78f668feb169494365eae40ae99b070c6b6727205005e3a797a00b5",
+          "sha256": "2225fae67583f3322f25752d0f8539581d6e5822da4701f6cf03062e1f3d6c4b",
+          "sha1": "80126de38e87d6337eae4a2d4a658cb6d9b41e98",
+          "md5": "d467f55443fb76512df57192e57e2ffb"
+        }
+      ]
+    }
+  ]
+}
