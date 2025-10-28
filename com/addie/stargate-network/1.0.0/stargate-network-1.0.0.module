@@ -27,11 +27,11 @@
         {
           "name": "stargate-network-1.0.0.jar",
           "url": "stargate-network-1.0.0.jar",
-          "size": 257120,
-          "sha512": "c80aa9543fec34c651a58a411ea0d5ae4e169f4311d49cb2605075d62917b54239730f5accb39c949fff217306c41beea9f8c36b5b275bc9a3ef576f5cb0a84f",
-          "sha256": "34078215ca9da91bb82c1dcca5184846e1f1dad8f25d7d5c86cfb0be85fe9005",
-          "sha1": "7470d6d08db9d604a3a5fd6131da395ba4fc0e41",
-          "md5": "b0cf18f1cdf275df95ef9c4bfbcd4efc"
+          "size": 257851,
+          "sha512": "4da3454859db151dfcff41cf2ff675942166e0e7957f10a6a2b761847410d7f1c75b24ca72fe454cb46255c749b6a8d1b16df6a5605ef36784a35fd3b6f5274a",
+          "sha256": "730f71bc97260516d0fb7178b4dfe442d8066c99970c12fdd02c4ad08dfc0a34",
+          "sha1": "9ae3baed24bc99525f0c2c1225c650c420f957db",
+          "md5": "3a62b04311b1deb99e8d466c2d1b8913"
         }
       ]
     },
@@ -53,24 +53,10 @@
           }
         },
         {
-          "group": "dev.drtheo",
-          "module": "scheduler",
+          "group": "dev.amble",
+          "module": "stargate",
           "version": {
-            "requires": "1.1.0"
-          }
-        },
-        {
-          "group": "dev.drtheo",
-          "module": "queue",
-          "version": {
-            "requires": "1.1.0-1.20"
-          }
-        },
-        {
-          "group": "com.github.amblelabs",
-          "module": "modkit",
-          "version": {
-            "requires": "1d67a7a312"
+            "requires": "0.0.0-dev+mc.1.20.1"
           }
         },
         {
@@ -85,11 +71,11 @@
         {
           "name": "stargate-network-1.0.0.jar",
           "url": "stargate-network-1.0.0.jar",
-          "size": 257120,
-          "sha512": "c80aa9543fec34c651a58a411ea0d5ae4e169f4311d49cb2605075d62917b54239730f5accb39c949fff217306c41beea9f8c36b5b275bc9a3ef576f5cb0a84f",
-          "sha256": "34078215ca9da91bb82c1dcca5184846e1f1dad8f25d7d5c86cfb0be85fe9005",
-          "sha1": "7470d6d08db9d604a3a5fd6131da395ba4fc0e41",
-          "md5": "b0cf18f1cdf275df95ef9c4bfbcd4efc"
+          "size": 257851,
+          "sha512": "4da3454859db151dfcff41cf2ff675942166e0e7957f10a6a2b761847410d7f1c75b24ca72fe454cb46255c749b6a8d1b16df6a5605ef36784a35fd3b6f5274a",
+          "sha256": "730f71bc97260516d0fb7178b4dfe442d8066c99970c12fdd02c4ad08dfc0a34",
+          "sha1": "9ae3baed24bc99525f0c2c1225c650c420f957db",
+          "md5": "3a62b04311b1deb99e8d466c2d1b8913"
         }
       ]
     },
@@ -105,11 +91,11 @@
         {
           "name": "stargate-network-1.0.0-sources.jar",
           "url": "stargate-network-1.0.0-sources.jar",
-          "size": 214469,
-          "sha512": "d1cec762275588e37b1685ae260b2c2633110c9049109ec56864fcad1ce552e8c8f282a14bda37863705962eab89a43d37152f92dc43a1f2d991b132442267b7",
-          "sha256": "52af0694f90e389088424bf14a6174b447a2f585905965ae8fb1f71d20d2e24c",
-          "sha1": "a4eff53c4b6f32811647fc0b9f779d4e618a9aac",
-          "md5": "d9913b7b4a03b2d741f8f81353e64701"
+          "size": 215260,
+          "sha512": "a1d7f9b1f58b3c29c7873084a741d34b5e97b9aae67dfbf13e44098e5bdaa8c37097f28893ec7b3ed597d4c0c594e1636f24cf2383ad7e07de05be90422d0bbe",
+          "sha256": "f34e9ca4a5f3cbdb4c04c65784cb31f710bf257fd28a27c15d1a6f7e4577121a",
+          "sha1": "70db44075b79486f8ba25fa071daedfbcb110f4f",
+          "md5": "b7fcd624331eb1cfaf9b23d6e9b07dc9"
         }
       ]
     }
