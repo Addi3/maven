@@ -23,15 +23,24 @@
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
+      "dependencies": [
+        {
+          "group": "dev.emi",
+          "module": "trinkets",
+          "version": {
+            "requires": "3.7.0"
+          }
+        }
+      ],
       "files": [
         {
           "name": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
-          "size": 12815152,
-          "sha512": "b4567a2169f3c8568b42c858d59725ef0d0ccb03cf9dfc0ced6ddcedd0856c684686e793e78f668feb169494365eae40ae99b070c6b6727205005e3a797a00b5",
-          "sha256": "2225fae67583f3322f25752d0f8539581d6e5822da4701f6cf03062e1f3d6c4b",
-          "sha1": "80126de38e87d6337eae4a2d4a658cb6d9b41e98",
-          "md5": "d467f55443fb76512df57192e57e2ffb"
+          "size": 12813255,
+          "sha512": "edb1143c7b67f573d5dd1f6fcf7b5b1874ac96c138439313b237680b0474d8dfaf882d2b33d0dff9636830bc2e2d29408e74ee3cc8fd0c085b53c5f59c018c58",
+          "sha256": "9e1a7e0a28d791e54a88f411686d0cdbc124a0ceabd176330e6b13db6c3743fb",
+          "sha1": "6e163ac2fcc91a46df7cbb19ad5ada9fcf238713",
+          "md5": "7d60c9a785c4e5929d91c40454c79eee"
         }
       ]
     },
@@ -53,6 +62,13 @@
           }
         },
         {
+          "group": "dev.emi",
+          "module": "trinkets",
+          "version": {
+            "requires": "3.7.0"
+          }
+        },
+        {
           "group": "net.fabricmc",
           "module": "fabric-loader",
           "version": {
@@ -64,13 +80,6 @@
           "module": "multidim",
           "version": {
             "requires": "2.1.4"
-          }
-        },
-        {
-          "group": "dev.emi",
-          "module": "trinkets",
-          "version": {
-            "requires": "3.7.0"
           }
         },
         {
@@ -113,11 +122,11 @@
         {
           "name": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
-          "size": 12815152,
-          "sha512": "b4567a2169f3c8568b42c858d59725ef0d0ccb03cf9dfc0ced6ddcedd0856c684686e793e78f668feb169494365eae40ae99b070c6b6727205005e3a797a00b5",
-          "sha256": "2225fae67583f3322f25752d0f8539581d6e5822da4701f6cf03062e1f3d6c4b",
-          "sha1": "80126de38e87d6337eae4a2d4a658cb6d9b41e98",
-          "md5": "d467f55443fb76512df57192e57e2ffb"
+          "size": 12813255,
+          "sha512": "edb1143c7b67f573d5dd1f6fcf7b5b1874ac96c138439313b237680b0474d8dfaf882d2b33d0dff9636830bc2e2d29408e74ee3cc8fd0c085b53c5f59c018c58",
+          "sha256": "9e1a7e0a28d791e54a88f411686d0cdbc124a0ceabd176330e6b13db6c3743fb",
+          "sha1": "6e163ac2fcc91a46df7cbb19ad5ada9fcf238713",
+          "md5": "7d60c9a785c4e5929d91c40454c79eee"
         }
       ]
     }
