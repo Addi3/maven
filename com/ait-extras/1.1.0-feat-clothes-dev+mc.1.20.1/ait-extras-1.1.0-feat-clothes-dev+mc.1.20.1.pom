@@ -14,7 +14,7 @@
     <dependency>
       <groupId>dev.emi</groupId>
       <artifactId>trinkets</artifactId>
-      <version>3.7.0</version>
+      <version>3.7.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

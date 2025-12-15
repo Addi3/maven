@@ -28,7 +28,7 @@
           "group": "dev.emi",
           "module": "trinkets",
           "version": {
-            "requires": "3.7.0"
+            "requires": "3.7.2"
           }
         }
       ],
@@ -36,11 +36,11 @@
         {
           "name": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
-          "size": 12826282,
-          "sha512": "ac90e4d4318351c3d3a735de0e1abfad9455608c938e6d38f9e149b985ffbedabbc8e5cb011d16f587641668099011a16edf77e5e3159929ee3817561e958daa",
-          "sha256": "2b4929767916bd4e0bffa46a2dcab5003d79185861cdc22c402c50ce89de998e",
-          "sha1": "b7b05e02afc3b866ec31ffc114da74bb94b56b27",
-          "md5": "78142cd52ac9410afe93239107722870"
+          "size": 12826326,
+          "sha512": "6a7e7102f5ad263fa0f4241a6cc430197bc5371473bd1515f3e8a7d6006b2925e110a08a4fe5851118bb07832d3beb13584768dd4bc79f17afc6cdb8e48d1b3d",
+          "sha256": "761b05f8fe268c70aa367224daab6ac85521d0022278f1b7d2df442d91d1bfd0",
+          "sha1": "798513e6882b46050e1ed4598f8ac6354b175576",
+          "md5": "8adc162d2d1cd9243c2ac09061b689e1"
         }
       ]
     },
@@ -65,7 +65,7 @@
           "group": "dev.emi",
           "module": "trinkets",
           "version": {
-            "requires": "3.7.0"
+            "requires": "3.7.2"
           }
         },
         {
@@ -122,11 +122,11 @@
         {
           "name": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
-          "size": 12826282,
-          "sha512": "ac90e4d4318351c3d3a735de0e1abfad9455608c938e6d38f9e149b985ffbedabbc8e5cb011d16f587641668099011a16edf77e5e3159929ee3817561e958daa",
-          "sha256": "2b4929767916bd4e0bffa46a2dcab5003d79185861cdc22c402c50ce89de998e",
-          "sha1": "b7b05e02afc3b866ec31ffc114da74bb94b56b27",
-          "md5": "78142cd52ac9410afe93239107722870"
+          "size": 12826326,
+          "sha512": "6a7e7102f5ad263fa0f4241a6cc430197bc5371473bd1515f3e8a7d6006b2925e110a08a4fe5851118bb07832d3beb13584768dd4bc79f17afc6cdb8e48d1b3d",
+          "sha256": "761b05f8fe268c70aa367224daab6ac85521d0022278f1b7d2df442d91d1bfd0",
+          "sha1": "798513e6882b46050e1ed4598f8ac6354b175576",
+          "md5": "8adc162d2d1cd9243c2ac09061b689e1"
         }
       ]
     }
