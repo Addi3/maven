@@ -49,11 +49,11 @@
         {
           "name": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
-          "size": 12826318,
-          "sha512": "7c78da1618760af1daf01ad7eab7c0f07f80602ba8aa5a47c083f3b1a2aceb377bef2c0ce1950ffc8a7e15b949cbb5d5215e6d77b5a4c547ebc320947d186fff",
-          "sha256": "2dc3f2f40e3edce40c2d2cf0364f938d4d67c0ac8f8c8a76c51c3b16138ab055",
-          "sha1": "d7ec8f29f4398f398e93db74f9dda7b096d2ff2a",
-          "md5": "1d2a09016448ae6686888327472769d1"
+          "size": 12839926,
+          "sha512": "224ac1e4f938cf070ea0a0ad37469c085c6c1472e40aa9d93e35b1f4f67e2b5e89424ddef0964fa4852cd683b6e1145e77bb3837745f70bd16d49408eeaed161",
+          "sha256": "d286abb86925ca6edad00f232d83e1a1bfa0d91b9a049657446d97f7601618c7",
+          "sha1": "b2691fcb998e7cdb130f3f1f12375b52d02fe63b",
+          "md5": "199db3bcc7787ced8c0cc58e4cf13c11"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
-          "size": 12826318,
-          "sha512": "7c78da1618760af1daf01ad7eab7c0f07f80602ba8aa5a47c083f3b1a2aceb377bef2c0ce1950ffc8a7e15b949cbb5d5215e6d77b5a4c547ebc320947d186fff",
-          "sha256": "2dc3f2f40e3edce40c2d2cf0364f938d4d67c0ac8f8c8a76c51c3b16138ab055",
-          "sha1": "d7ec8f29f4398f398e93db74f9dda7b096d2ff2a",
-          "md5": "1d2a09016448ae6686888327472769d1"
+          "size": 12839926,
+          "sha512": "224ac1e4f938cf070ea0a0ad37469c085c6c1472e40aa9d93e35b1f4f67e2b5e89424ddef0964fa4852cd683b6e1145e77bb3837745f70bd16d49408eeaed161",
+          "sha256": "d286abb86925ca6edad00f232d83e1a1bfa0d91b9a049657446d97f7601618c7",
+          "sha1": "b2691fcb998e7cdb130f3f1f12375b52d02fe63b",
+          "md5": "199db3bcc7787ced8c0cc58e4cf13c11"
         }
       ]
     }
