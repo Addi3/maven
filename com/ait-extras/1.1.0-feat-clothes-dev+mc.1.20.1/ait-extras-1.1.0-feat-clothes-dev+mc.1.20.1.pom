@@ -18,6 +18,18 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>dev.amble</groupId>
+      <artifactId>lib</artifactId>
+      <version>1.1.15-dev+mc.1.20.1</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <groupId>net.fabricmc.fabric-api</groupId>
+          <artifactId>*</artifactId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
       <groupId>net.objecthunter</groupId>
       <artifactId>exp4j</artifactId>
       <version>0.4.8</version>

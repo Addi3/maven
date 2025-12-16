@@ -30,17 +30,30 @@
           "version": {
             "requires": "3.7.2"
           }
+        },
+        {
+          "group": "dev.amble",
+          "module": "lib",
+          "version": {
+            "requires": "1.1.15-dev+mc.1.20.1"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
         }
       ],
       "files": [
         {
           "name": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
-          "size": 12826326,
-          "sha512": "6a7e7102f5ad263fa0f4241a6cc430197bc5371473bd1515f3e8a7d6006b2925e110a08a4fe5851118bb07832d3beb13584768dd4bc79f17afc6cdb8e48d1b3d",
-          "sha256": "761b05f8fe268c70aa367224daab6ac85521d0022278f1b7d2df442d91d1bfd0",
-          "sha1": "798513e6882b46050e1ed4598f8ac6354b175576",
-          "md5": "8adc162d2d1cd9243c2ac09061b689e1"
+          "size": 12826318,
+          "sha512": "7c78da1618760af1daf01ad7eab7c0f07f80602ba8aa5a47c083f3b1a2aceb377bef2c0ce1950ffc8a7e15b949cbb5d5215e6d77b5a4c547ebc320947d186fff",
+          "sha256": "2dc3f2f40e3edce40c2d2cf0364f938d4d67c0ac8f8c8a76c51c3b16138ab055",
+          "sha1": "d7ec8f29f4398f398e93db74f9dda7b096d2ff2a",
+          "md5": "1d2a09016448ae6686888327472769d1"
         }
       ]
     },
@@ -67,6 +80,19 @@
           "version": {
             "requires": "3.7.2"
           }
+        },
+        {
+          "group": "dev.amble",
+          "module": "lib",
+          "version": {
+            "requires": "1.1.15-dev+mc.1.20.1"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
         },
         {
           "group": "net.fabricmc",
@@ -122,11 +148,11 @@
         {
           "name": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-feat-clothes-dev+mc.1.20.1.jar",
-          "size": 12826326,
-          "sha512": "6a7e7102f5ad263fa0f4241a6cc430197bc5371473bd1515f3e8a7d6006b2925e110a08a4fe5851118bb07832d3beb13584768dd4bc79f17afc6cdb8e48d1b3d",
-          "sha256": "761b05f8fe268c70aa367224daab6ac85521d0022278f1b7d2df442d91d1bfd0",
-          "sha1": "798513e6882b46050e1ed4598f8ac6354b175576",
-          "md5": "8adc162d2d1cd9243c2ac09061b689e1"
+          "size": 12826318,
+          "sha512": "7c78da1618760af1daf01ad7eab7c0f07f80602ba8aa5a47c083f3b1a2aceb377bef2c0ce1950ffc8a7e15b949cbb5d5215e6d77b5a4c547ebc320947d186fff",
+          "sha256": "2dc3f2f40e3edce40c2d2cf0364f938d4d67c0ac8f8c8a76c51c3b16138ab055",
+          "sha1": "d7ec8f29f4398f398e93db74f9dda7b096d2ff2a",
+          "md5": "1d2a09016448ae6686888327472769d1"
         }
       ]
     }
