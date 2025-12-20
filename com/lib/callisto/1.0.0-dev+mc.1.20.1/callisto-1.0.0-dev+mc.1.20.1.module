@@ -27,11 +27,11 @@
         {
           "name": "callisto-1.0.0-dev+mc.1.20.1.jar",
           "url": "callisto-1.0.0-dev+mc.1.20.1.jar",
-          "size": 33850,
-          "sha512": "74cca0b611ca9d50515577d66f318ed16e1a8e2c6602e94c3c9bfd0bc13bedf589b4fe928900166ba5527f2931de0f07eeb937095a3ce172fa49e04281319c31",
-          "sha256": "01c47e7c9a0ede9cf35352509cb0f6af9594031755a7e0dd7d767309522543e1",
-          "sha1": "6b1edcf1b93dea05129019ea63b5b84a1d10b87b",
-          "md5": "a122906fa556addb9e7a3e1a5ed12494"
+          "size": 112553,
+          "sha512": "887240e754eb2e1c982bbc4b2952f2b803e65fdc1a46b6624b467b0c4719ab51be05f945f15525f80cc99297bebc0ed5d4aee2f1606f012082d326bd81d8a978",
+          "sha256": "bd67579fc302704016445b9dce507b928d004f537efa6445e18ea6e18b679411",
+          "sha1": "85f02d36e45c41f3607436ce556c77f7e02b2088",
+          "md5": "479da45ba8ae4d32050ff8674bcc826d"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "callisto-1.0.0-dev+mc.1.20.1.jar",
           "url": "callisto-1.0.0-dev+mc.1.20.1.jar",
-          "size": 33850,
-          "sha512": "74cca0b611ca9d50515577d66f318ed16e1a8e2c6602e94c3c9bfd0bc13bedf589b4fe928900166ba5527f2931de0f07eeb937095a3ce172fa49e04281319c31",
-          "sha256": "01c47e7c9a0ede9cf35352509cb0f6af9594031755a7e0dd7d767309522543e1",
-          "sha1": "6b1edcf1b93dea05129019ea63b5b84a1d10b87b",
-          "md5": "a122906fa556addb9e7a3e1a5ed12494"
+          "size": 112553,
+          "sha512": "887240e754eb2e1c982bbc4b2952f2b803e65fdc1a46b6624b467b0c4719ab51be05f945f15525f80cc99297bebc0ed5d4aee2f1606f012082d326bd81d8a978",
+          "sha256": "bd67579fc302704016445b9dce507b928d004f537efa6445e18ea6e18b679411",
+          "sha1": "85f02d36e45c41f3607436ce556c77f7e02b2088",
+          "md5": "479da45ba8ae4d32050ff8674bcc826d"
         }
       ]
     },
@@ -84,11 +84,11 @@
         {
           "name": "callisto-1.0.0-dev+mc.1.20.1-sources.jar",
           "url": "callisto-1.0.0-dev+mc.1.20.1-sources.jar",
-          "size": 27829,
-          "sha512": "84ead0a4d86c338238110088c8271fea7459998a07efbf5d894f2253cfc188b075ba9a6e13f59db6c503130dc36376e014c3d10539eace7ebac4f3af8a4c3f5a",
-          "sha256": "3c21d99352119ec7dab8253f3934d99b176e493c348ad00cc067d4989ca04c6c",
-          "sha1": "d9a8def53f8c8e00aba47c280d06d61db6595375",
-          "md5": "b2cda4291fe47b663218bfdd2043b032"
+          "size": 102896,
+          "sha512": "afe8b83e53c4a47f1df5c1619ce608378ae783742dd2e7153a09dae42b4bb234b4ffa967fdf97389a1875fe0cbb0ce9cf58370b3848e0d897474896cbbfbafdc",
+          "sha256": "81fb9906a8b85957d5db80cb1e55de46ca78501d62f0740f42e4130fe7114071",
+          "sha1": "38686f2b1c6a704dff744c4e4159a6c2227b57b7",
+          "md5": "cfb91ab8fc0825b13dbba748d66cc287"
         }
       ]
     }
