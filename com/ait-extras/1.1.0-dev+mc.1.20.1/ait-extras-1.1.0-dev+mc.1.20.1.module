@@ -35,7 +35,7 @@
           "group": "dev.amble",
           "module": "lib",
           "version": {
-            "requires": "1.1.15-dev+mc.1.20.1"
+            "requires": "1.1.16-perf-anim-dev+mc.1.20.1"
           },
           "excludes": [
             {
@@ -49,11 +49,11 @@
         {
           "name": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
-          "size": 13056364,
-          "sha512": "05e64cd6d982a7d53430df0356380f01f62dcddf8541e69fa791a15061ea07a67d66f74c2e80c548289dbdd135fceba8e208d59f5f02e43189e8ea27755140fc",
-          "sha256": "eef71cdcdff8937e4ad7ca0437f32fd90d8074c818a4c739c0c6bbd1f5dcba1d",
-          "sha1": "842c5838719a28e87f65f1a80ff8e2828450dbf9",
-          "md5": "a002e63fbaeb5c04c4751d6be5f38b8f"
+          "size": 13157508,
+          "sha512": "473f7b7f499f62b163a0720399dd1de3f41f317e6ee370618bba20559717981d35742f21782aee81259066e4fa4eb98d2801bc24878d65e7be2e64fc868214d2",
+          "sha256": "26b4d192bced8008c3c3acfa3b7c69ed6e72d2c1947cd64fe66f4ddd6726d2d6",
+          "sha1": "0078845a31019eba509f435c6a95412de0603a4a",
+          "md5": "ab77ecc49b22e6016a594e8dd16fcc04"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "group": "dev.amble",
           "module": "lib",
           "version": {
-            "requires": "1.1.15-dev+mc.1.20.1"
+            "requires": "1.1.16-perf-anim-dev+mc.1.20.1"
           },
           "excludes": [
             {
@@ -148,11 +148,11 @@
         {
           "name": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
-          "size": 13056364,
-          "sha512": "05e64cd6d982a7d53430df0356380f01f62dcddf8541e69fa791a15061ea07a67d66f74c2e80c548289dbdd135fceba8e208d59f5f02e43189e8ea27755140fc",
-          "sha256": "eef71cdcdff8937e4ad7ca0437f32fd90d8074c818a4c739c0c6bbd1f5dcba1d",
-          "sha1": "842c5838719a28e87f65f1a80ff8e2828450dbf9",
-          "md5": "a002e63fbaeb5c04c4751d6be5f38b8f"
+          "size": 13157508,
+          "sha512": "473f7b7f499f62b163a0720399dd1de3f41f317e6ee370618bba20559717981d35742f21782aee81259066e4fa4eb98d2801bc24878d65e7be2e64fc868214d2",
+          "sha256": "26b4d192bced8008c3c3acfa3b7c69ed6e72d2c1947cd64fe66f4ddd6726d2d6",
+          "sha1": "0078845a31019eba509f435c6a95412de0603a4a",
+          "md5": "ab77ecc49b22e6016a594e8dd16fcc04"
         }
       ]
     }
