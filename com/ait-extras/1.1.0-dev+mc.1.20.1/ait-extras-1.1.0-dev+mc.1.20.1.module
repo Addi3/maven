@@ -49,11 +49,11 @@
         {
           "name": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
-          "size": 13287668,
-          "sha512": "ed2c14c235bd31d8375fddfa6e0cc4a8f7c189a8cdf8cd18eede92b42fdc599a575bf81235ccd02a292db1f5c1d53f4b39557abead7b9b519284ae018f1a0559",
-          "sha256": "5b0fe197ad4d2ad2acd08d48fac02ac6fec15142df1eae429e8f070cc8c87594",
-          "sha1": "eeb0b4c24d2982199d5d3830a1fea55257099151",
-          "md5": "72e448f75cbbb91c3fcbff96d8fd3df6"
+          "size": 13317533,
+          "sha512": "8f76e9a24a82cb864ca486c085e785eaf25b672b9b90d29e4dab48e9e5ec7673fdfb59add6e624889a68c1f3f71ff791f09123bd1581dee461e88daed77f4bbc",
+          "sha256": "6eb54f7c61ebe4644e46ef421f92643e6a3936235ffe0c7aa43be44b0360b41d",
+          "sha1": "54be4f10b412fc8fd4c99ad4b6716022ef0919be",
+          "md5": "bb6cbfa836785ccc7547bf6572a9d031"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "group": "dev.amble",
           "module": "ait",
           "version": {
-            "requires": "1.2.13-dev+mc.1.20.1"
+            "requires": "1.2.13-api-datapack_control_anims-dev+mc.1.20.1"
           }
         },
         {
@@ -148,11 +148,11 @@
         {
           "name": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
-          "size": 13287668,
-          "sha512": "ed2c14c235bd31d8375fddfa6e0cc4a8f7c189a8cdf8cd18eede92b42fdc599a575bf81235ccd02a292db1f5c1d53f4b39557abead7b9b519284ae018f1a0559",
-          "sha256": "5b0fe197ad4d2ad2acd08d48fac02ac6fec15142df1eae429e8f070cc8c87594",
-          "sha1": "eeb0b4c24d2982199d5d3830a1fea55257099151",
-          "md5": "72e448f75cbbb91c3fcbff96d8fd3df6"
+          "size": 13317533,
+          "sha512": "8f76e9a24a82cb864ca486c085e785eaf25b672b9b90d29e4dab48e9e5ec7673fdfb59add6e624889a68c1f3f71ff791f09123bd1581dee461e88daed77f4bbc",
+          "sha256": "6eb54f7c61ebe4644e46ef421f92643e6a3936235ffe0c7aa43be44b0360b41d",
+          "sha1": "54be4f10b412fc8fd4c99ad4b6716022ef0919be",
+          "md5": "bb6cbfa836785ccc7547bf6572a9d031"
         }
       ]
     }
