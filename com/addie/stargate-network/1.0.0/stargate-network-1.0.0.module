@@ -23,15 +23,30 @@
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
+      "dependencies": [
+        {
+          "group": "dev.amble",
+          "module": "lib",
+          "version": {
+            "requires": "1.1.16-perf-anim-dev+mc.1.20.1"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        }
+      ],
       "files": [
         {
           "name": "stargate-network-1.0.0.jar",
           "url": "stargate-network-1.0.0.jar",
-          "size": 257851,
-          "sha512": "4da3454859db151dfcff41cf2ff675942166e0e7957f10a6a2b761847410d7f1c75b24ca72fe454cb46255c749b6a8d1b16df6a5605ef36784a35fd3b6f5274a",
-          "sha256": "730f71bc97260516d0fb7178b4dfe442d8066c99970c12fdd02c4ad08dfc0a34",
-          "sha1": "9ae3baed24bc99525f0c2c1225c650c420f957db",
-          "md5": "3a62b04311b1deb99e8d466c2d1b8913"
+          "size": 95119,
+          "sha512": "7bcc995f419fe2d152956dc50f6435a87e9dd5bde29335c62e3b0a411ef24200a7b3fb4e86cf7b229eec174559109af1c1d50629b649d93aeaff5b53a5d24060",
+          "sha256": "93feb0e06ac48b683f93fabfb3cd42e9889e8dfe315754e5e2a9599f722f1599",
+          "sha1": "b34cd85c1306210fd29f125dfa96988c0c2a9e62",
+          "md5": "f230692a07065e020ce3a85da3e2b69f"
         }
       ]
     },
@@ -46,17 +61,23 @@
       },
       "dependencies": [
         {
+          "group": "dev.amble",
+          "module": "lib",
+          "version": {
+            "requires": "1.1.16-perf-anim-dev+mc.1.20.1"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        },
+        {
           "group": "net.fabricmc",
           "module": "fabric-loader",
           "version": {
             "requires": "0.17.3"
-          }
-        },
-        {
-          "group": "dev.amble",
-          "module": "stargate",
-          "version": {
-            "requires": "0.0.0-dev+mc.1.20.1"
           }
         },
         {
@@ -65,17 +86,24 @@
           "version": {
             "requires": "0.92.6+1.20.1"
           }
+        },
+        {
+          "group": "dev.drtheo",
+          "module": "multidim",
+          "version": {
+            "requires": "2.1.4"
+          }
         }
       ],
       "files": [
         {
           "name": "stargate-network-1.0.0.jar",
           "url": "stargate-network-1.0.0.jar",
-          "size": 257851,
-          "sha512": "4da3454859db151dfcff41cf2ff675942166e0e7957f10a6a2b761847410d7f1c75b24ca72fe454cb46255c749b6a8d1b16df6a5605ef36784a35fd3b6f5274a",
-          "sha256": "730f71bc97260516d0fb7178b4dfe442d8066c99970c12fdd02c4ad08dfc0a34",
-          "sha1": "9ae3baed24bc99525f0c2c1225c650c420f957db",
-          "md5": "3a62b04311b1deb99e8d466c2d1b8913"
+          "size": 95119,
+          "sha512": "7bcc995f419fe2d152956dc50f6435a87e9dd5bde29335c62e3b0a411ef24200a7b3fb4e86cf7b229eec174559109af1c1d50629b649d93aeaff5b53a5d24060",
+          "sha256": "93feb0e06ac48b683f93fabfb3cd42e9889e8dfe315754e5e2a9599f722f1599",
+          "sha1": "b34cd85c1306210fd29f125dfa96988c0c2a9e62",
+          "md5": "f230692a07065e020ce3a85da3e2b69f"
         }
       ]
     },
@@ -91,11 +119,11 @@
         {
           "name": "stargate-network-1.0.0-sources.jar",
           "url": "stargate-network-1.0.0-sources.jar",
-          "size": 215260,
-          "sha512": "a1d7f9b1f58b3c29c7873084a741d34b5e97b9aae67dfbf13e44098e5bdaa8c37097f28893ec7b3ed597d4c0c594e1636f24cf2383ad7e07de05be90422d0bbe",
-          "sha256": "f34e9ca4a5f3cbdb4c04c65784cb31f710bf257fd28a27c15d1a6f7e4577121a",
-          "sha1": "70db44075b79486f8ba25fa071daedfbcb110f4f",
-          "md5": "b7fcd624331eb1cfaf9b23d6e9b07dc9"
+          "size": 90052,
+          "sha512": "20cd6d4336928c5a3b32a81cfacf6d800c4c133cafbdd32f9df3b3d2b5a11a21bdb651fac939d764e02529a71bdc038873e2cbe972fc86afd464227225cec64d",
+          "sha256": "dd3630a8b07c4fa578fe5c95eba5eca2ca39a8cef7293403fd87870620428289",
+          "sha1": "a7313897a8bed243ae78f095e7fef94d0444c7ce",
+          "md5": "a7f1ae911512296698efe5a6b8c35306"
         }
       ]
     }
