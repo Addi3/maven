@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.1.0"
+      "version": "8.11"
     }
   },
   "variants": [
@@ -42,11 +42,11 @@
         {
           "name": "stargate-network-1.0.0.jar",
           "url": "stargate-network-1.0.0.jar",
-          "size": 112110,
-          "sha512": "64952a31791caa9cfde5499c335ec07117f0dc197cc835405a8703c967302a0b2b2f3bc4faa243576cce39df789e3340655da31ae66269ec6e206e6bdeb9b4f3",
-          "sha256": "353cba498ff349ea8dd00e6add081bc78fb568c8a3c4ee68bd0aa2bfc7753262",
-          "sha1": "19a7c10130e32bc1e0566b0220f94ed047fc007d",
-          "md5": "f52e69ebdc9251a780b9b9337cd9c87f"
+          "size": 111703,
+          "sha512": "219eb75e8349e15b9b9be6e0c38170ecf7042258642c240a1e8cef2c264352cce3fda00c1e843d304d1202a8f2a20388e595b9ec05abdcc63023e7c7836b664a",
+          "sha256": "2006b628690855e587eff0c0769c1d360a60aa50ac68a2ce54111cc662d54e5d",
+          "sha1": "e7231e35bb8e5834aab405fc08d59f39f8f70c6b",
+          "md5": "6891a9b832516db8d4943053933d4c42"
         }
       ]
     },
@@ -77,14 +77,14 @@
           "group": "net.fabricmc",
           "module": "fabric-loader",
           "version": {
-            "requires": "0.17.3"
+            "requires": "0.18.4"
           }
         },
         {
           "group": "net.fabricmc.fabric-api",
           "module": "fabric-api",
           "version": {
-            "requires": "0.92.6+1.20.1"
+            "requires": "0.92.7+1.20.1"
           }
         },
         {
@@ -99,11 +99,11 @@
         {
           "name": "stargate-network-1.0.0.jar",
           "url": "stargate-network-1.0.0.jar",
-          "size": 112110,
-          "sha512": "64952a31791caa9cfde5499c335ec07117f0dc197cc835405a8703c967302a0b2b2f3bc4faa243576cce39df789e3340655da31ae66269ec6e206e6bdeb9b4f3",
-          "sha256": "353cba498ff349ea8dd00e6add081bc78fb568c8a3c4ee68bd0aa2bfc7753262",
-          "sha1": "19a7c10130e32bc1e0566b0220f94ed047fc007d",
-          "md5": "f52e69ebdc9251a780b9b9337cd9c87f"
+          "size": 111703,
+          "sha512": "219eb75e8349e15b9b9be6e0c38170ecf7042258642c240a1e8cef2c264352cce3fda00c1e843d304d1202a8f2a20388e595b9ec05abdcc63023e7c7836b664a",
+          "sha256": "2006b628690855e587eff0c0769c1d360a60aa50ac68a2ce54111cc662d54e5d",
+          "sha1": "e7231e35bb8e5834aab405fc08d59f39f8f70c6b",
+          "md5": "6891a9b832516db8d4943053933d4c42"
         }
       ]
     },
@@ -119,11 +119,11 @@
         {
           "name": "stargate-network-1.0.0-sources.jar",
           "url": "stargate-network-1.0.0-sources.jar",
-          "size": 102629,
-          "sha512": "e20045a527df1b7203ef9a073088a870aa58e36426522f033eebde713ef5ae8dfdfac0d504cb4bdf59a4ca4e9c7c4893b0f56e944292fabe68762bda90d45432",
-          "sha256": "7c736accebbb0fc5e2dd4e17875f7d964178be491bde02ecb73ce10695868f08",
-          "sha1": "c2b4c184dd20ca22007c049b0e5af17537ace29c",
-          "md5": "2b86975da0f716e7469ec2c95db5f2c9"
+          "size": 103698,
+          "sha512": "d038d9c241c51a527ab6fd72100979d9f898cf6aad0ec7de919b7e301fe7599a8bf46366db9defca1a71e5924e5ed96fe1ba6100dfd9f2464fdc515d0ada92f2",
+          "sha256": "2d354a89a0cedd884bcff403eae052bb3e08c0194d3dac685e98196ede9b217a",
+          "sha1": "60c0d0226d1f1207ed50afca20283fecac175226",
+          "md5": "ccf9c1e32ef40ff1d8029672303bf82f"
         }
       ]
     }
