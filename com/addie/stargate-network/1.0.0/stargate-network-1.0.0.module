@@ -42,11 +42,11 @@
         {
           "name": "stargate-network-1.0.0.jar",
           "url": "stargate-network-1.0.0.jar",
-          "size": 185798,
-          "sha512": "fe354fba80c80c44575fccd89fc4f540b35dc257f877901e22581fd63ca983a54f7a80767c2ae20f721aa31c6bf2a30bc08d135823a0e8f268da5dce5f43db1d",
-          "sha256": "752540b1b667e01b9de438f490e9a13123d3e232e3ca50f3858fa2519075fa6e",
-          "sha1": "a8ea5317d35894b977db0ee985d32aab31059efd",
-          "md5": "17430ad732943040bd8839203598cd6d"
+          "size": 292362,
+          "sha512": "3b881ddb07c84b71550384a09c3ab9d8520ed7437da954a7fcfb515eab642d52656bbfffb0e2334c8fc2768041eb9a0cee9fecd14e25fbe351a5565ec1f61d6a",
+          "sha256": "a38ff365dc05a02c25c885fe2a84ad51d32fed6c972b4e04cf6d42610fc548ec",
+          "sha1": "e682073c032ce74d87b8f886a1cdbd5d489e5ed1",
+          "md5": "e173c31f81ee7ea2556e6fc879384212"
         }
       ]
     },
@@ -99,11 +99,11 @@
         {
           "name": "stargate-network-1.0.0.jar",
           "url": "stargate-network-1.0.0.jar",
-          "size": 185798,
-          "sha512": "fe354fba80c80c44575fccd89fc4f540b35dc257f877901e22581fd63ca983a54f7a80767c2ae20f721aa31c6bf2a30bc08d135823a0e8f268da5dce5f43db1d",
-          "sha256": "752540b1b667e01b9de438f490e9a13123d3e232e3ca50f3858fa2519075fa6e",
-          "sha1": "a8ea5317d35894b977db0ee985d32aab31059efd",
-          "md5": "17430ad732943040bd8839203598cd6d"
+          "size": 292362,
+          "sha512": "3b881ddb07c84b71550384a09c3ab9d8520ed7437da954a7fcfb515eab642d52656bbfffb0e2334c8fc2768041eb9a0cee9fecd14e25fbe351a5565ec1f61d6a",
+          "sha256": "a38ff365dc05a02c25c885fe2a84ad51d32fed6c972b4e04cf6d42610fc548ec",
+          "sha1": "e682073c032ce74d87b8f886a1cdbd5d489e5ed1",
+          "md5": "e173c31f81ee7ea2556e6fc879384212"
         }
       ]
     },
@@ -119,11 +119,11 @@
         {
           "name": "stargate-network-1.0.0-sources.jar",
           "url": "stargate-network-1.0.0-sources.jar",
-          "size": 174098,
-          "sha512": "f309cde00577aa7b31f34a414365a7db72eb40900cfa055e31b5de2e3a404266f0fa76c0441188cb49fbdf7ec12163c8b88c355a7a5a07542ce6af97220cb516",
-          "sha256": "a8c93b3b81a7d23ae5381646a7b889aa8fa2c06ebc6e2b8ff493d698c802dd1d",
-          "sha1": "98485e280ac897c699e048d6c8f45d7df1c8356e",
-          "md5": "f845b25426704c4a0bc9c91a3cb52885"
+          "size": 280687,
+          "sha512": "d29371a523083304cf949fdf9e6def228e4e170ae14a278ca51ece8dfe7e5e3c0ec8f197830a3c3864ff549cba1edc3be2608fbf7762aab6aa38f46aa7dbf3dd",
+          "sha256": "7df6af4b1d027b5bcb83009c6c06e161d54586eeacba35397b1209c90aa1f200",
+          "sha1": "1a078c25e79cd53624592530e3181c4097e8eda1",
+          "md5": "252c77b38c755e0935a88fef91989bd2"
         }
       ]
     }
