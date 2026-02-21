@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.lib",
+    "module": "callisto",
+    "version": "1.0.5-dev+mc.1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "callisto-1.0.5-dev+mc.1.20.1.jar",
+          "url": "callisto-1.0.5-dev+mc.1.20.1.jar",
+          "size": 113999,
+          "sha512": "3de46d6e7f6ff3e06da517cf9a5fadacee1850374740d44f9dde608fc2a1d61bc6f05ea95d323aea5e086c24699f4863ccd87311c4cd6fc5c19d68773d41261c",
+          "sha256": "6b3f8c5d2c7a3a8f066eb3801d31e97daf32816d258e53962c43593d56652c79",
+          "sha1": "d0e21929971374dd06252ea18610acf61345e82a",
+          "md5": "65a9ff61b91f5ad127bf965ff30485a1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.18.3"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.92.6+1.20.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "callisto-1.0.5-dev+mc.1.20.1.jar",
+          "url": "callisto-1.0.5-dev+mc.1.20.1.jar",
+          "size": 113999,
+          "sha512": "3de46d6e7f6ff3e06da517cf9a5fadacee1850374740d44f9dde608fc2a1d61bc6f05ea95d323aea5e086c24699f4863ccd87311c4cd6fc5c19d68773d41261c",
+          "sha256": "6b3f8c5d2c7a3a8f066eb3801d31e97daf32816d258e53962c43593d56652c79",
+          "sha1": "d0e21929971374dd06252ea18610acf61345e82a",
+          "md5": "65a9ff61b91f5ad127bf965ff30485a1"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "callisto-1.0.5-dev+mc.1.20.1-sources.jar",
+          "url": "callisto-1.0.5-dev+mc.1.20.1-sources.jar",
+          "size": 103707,
+          "sha512": "dcb779d7f64bf6721d520b50867e111c23814a33a1d6e46b31551e18d8fbc693112330c6b4195daf05670b00d312e2fbbfdaa8401915f6c2d0c4c807a6b641b0",
+          "sha256": "a0b14ea4de3a07ec586607cc7d15abf6a15efdc39594b666f9c78cb34a4564ee",
+          "sha1": "0462384e07e70668ebcf1c024b381fce417917a5",
+          "md5": "2e31bb054ff607686fbf6ba189fac39d"
+        }
+      ]
+    }
+  ]
+}
