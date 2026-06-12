@@ -35,7 +35,7 @@
           "group": "dev.amble",
           "module": "lib",
           "version": {
-            "requires": "1.1.16-perf-anim-dev+mc.1.20.1"
+            "requires": "1.1.15-dev+mc.1.20.1"
           },
           "excludes": [
             {
@@ -49,11 +49,11 @@
         {
           "name": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
-          "size": 13318277,
-          "sha512": "1fc21b43ca3e4d5d9ffc817d64dddaada8266181a934b95805d4636d75cd323453873830cb935c7da08cba2a1fa99d775538ae9f7acb4ff62c91b6d66e8d6c2d",
-          "sha256": "b1173b078089f97f4d5add634c1a91d7e038a39e35f5bd8e782e22bd3dd61f43",
-          "sha1": "c8d0d4a4eb3781b9e083781471cfc68ca843405b",
-          "md5": "490f5a965fe0e95aecaa53ca84d993a2"
+          "size": 12808192,
+          "sha512": "d80024f302d7bef920db1d24d61645bff84118ff27f3e90ba0c9d8685e1771fa7e4f803bd437929b75e641efa588fdb565415b837314103d662ebe568aefd3a2",
+          "sha256": "fb4193db342d312adac008c704a2fde2ea8ac2ed80ec851bd5c01dbe763428c1",
+          "sha1": "d61f3cbad4789ef0414aab34e192286bc0400d24",
+          "md5": "d605c67dcf9e0412e9792f3ec9905edf"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "group": "dev.amble",
           "module": "lib",
           "version": {
-            "requires": "1.1.16-perf-anim-dev+mc.1.20.1"
+            "requires": "1.1.15-dev+mc.1.20.1"
           },
           "excludes": [
             {
@@ -119,7 +119,7 @@
           "group": "dev.amble",
           "module": "ait",
           "version": {
-            "requires": "1.2.13-api-datapack_control_anims-dev+mc.1.20.1"
+            "requires": "1.2.13-dev+mc.1.20.1"
           }
         },
         {
@@ -148,11 +148,11 @@
         {
           "name": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
-          "size": 13318277,
-          "sha512": "1fc21b43ca3e4d5d9ffc817d64dddaada8266181a934b95805d4636d75cd323453873830cb935c7da08cba2a1fa99d775538ae9f7acb4ff62c91b6d66e8d6c2d",
-          "sha256": "b1173b078089f97f4d5add634c1a91d7e038a39e35f5bd8e782e22bd3dd61f43",
-          "sha1": "c8d0d4a4eb3781b9e083781471cfc68ca843405b",
-          "md5": "490f5a965fe0e95aecaa53ca84d993a2"
+          "size": 12808192,
+          "sha512": "d80024f302d7bef920db1d24d61645bff84118ff27f3e90ba0c9d8685e1771fa7e4f803bd437929b75e641efa588fdb565415b837314103d662ebe568aefd3a2",
+          "sha256": "fb4193db342d312adac008c704a2fde2ea8ac2ed80ec851bd5c01dbe763428c1",
+          "sha1": "d61f3cbad4789ef0414aab34e192286bc0400d24",
+          "md5": "d605c67dcf9e0412e9792f3ec9905edf"
         }
       ]
     }
