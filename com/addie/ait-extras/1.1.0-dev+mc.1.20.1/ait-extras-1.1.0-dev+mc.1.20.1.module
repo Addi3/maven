@@ -1,0 +1,186 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.addie",
+    "module": "ait-extras",
+    "version": "1.1.0-dev+mc.1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "dev.emi",
+          "module": "trinkets",
+          "version": {
+            "requires": "3.7.2"
+          }
+        },
+        {
+          "group": "dev.amblelabs",
+          "module": "modkit",
+          "version": {
+            "requires": "2c20faaf2f"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
+          "url": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
+          "size": 12800641,
+          "sha512": "a4c13b49c47c5ce385807c559af5fd37a6c1c35f8754fb87cd169f4d1b65355dbfe5868efcebaf746509db68b5e352a25bb8a819b880c9477ec3a5f107bb216c",
+          "sha256": "dba8e87111a9d83a9168ba6acbc82a44c8a0374089a4cb0a419d4f51ad21184e",
+          "sha1": "53e8f04e89676d5b7ca3c3f0fa3bc53bae57cbef",
+          "md5": "e3bb8c445289861ca85061b3dd52ae8b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.objecthunter",
+          "module": "exp4j",
+          "version": {
+            "requires": "0.4.8"
+          }
+        },
+        {
+          "group": "dev.emi",
+          "module": "trinkets",
+          "version": {
+            "requires": "3.7.2"
+          }
+        },
+        {
+          "group": "dev.amblelabs",
+          "module": "modkit",
+          "version": {
+            "requires": "2c20faaf2f"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.19.5"
+          }
+        },
+        {
+          "group": "dev.drtheo",
+          "module": "multidim",
+          "version": {
+            "requires": "2.1.4"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.92.12+1.20.1"
+          }
+        },
+        {
+          "group": "dev.amblelabs",
+          "module": "ait",
+          "version": {
+            "requires": "85e6b8d96d"
+          }
+        },
+        {
+          "group": "com.github.iPortalTeam.ImmersivePortalsMod",
+          "module": "imm_ptl_core",
+          "version": {
+            "requires": "v3.3.9-mc1.20.1"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "com.github.iPortalTeam.ImmersivePortalsMod",
+          "module": "q_misc_util",
+          "version": {
+            "requires": "v3.3.9-mc1.20.1"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "dev.isxander",
+          "module": "yet-another-config-lib",
+          "version": {
+            "requires": "3.6.1+1.20.1-fabric"
+          }
+        },
+        {
+          "group": "mezz.jei",
+          "module": "jei-1.20.1-fabric-api",
+          "version": {
+            "requires": "15.20.0.112"
+          }
+        },
+        {
+          "group": "maven.modrinth",
+          "module": "jei",
+          "version": {
+            "requires": "15.20.0.112"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
+          "url": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
+          "size": 12800641,
+          "sha512": "a4c13b49c47c5ce385807c559af5fd37a6c1c35f8754fb87cd169f4d1b65355dbfe5868efcebaf746509db68b5e352a25bb8a819b880c9477ec3a5f107bb216c",
+          "sha256": "dba8e87111a9d83a9168ba6acbc82a44c8a0374089a4cb0a419d4f51ad21184e",
+          "sha1": "53e8f04e89676d5b7ca3c3f0fa3bc53bae57cbef",
+          "md5": "e3bb8c445289861ca85061b3dd52ae8b"
+        }
+      ]
+    }
+  ]
+}
