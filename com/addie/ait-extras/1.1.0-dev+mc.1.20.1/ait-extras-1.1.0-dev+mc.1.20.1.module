@@ -49,11 +49,11 @@
         {
           "name": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
-          "size": 12946562,
-          "sha512": "c19b91a16c5ac23f60d37b9b52c35a3358f9dce350c3a11b7ac7574660480278ab46aa9693a7e2f693340c591c0e66ec1db5eb48d0a24371489e518326e519a5",
-          "sha256": "87c76348014a471280406b5f1c1d08eff2513a523ac9dc0f9dfcf410004854e4",
-          "sha1": "29f6a9b3a48aeb31bc1d3c1fdb093944a9009f8f",
-          "md5": "c808a12a903ca54df0c36cc10029b36d"
+          "size": 12946637,
+          "sha512": "8eaa4358415fc4df043c851e2e2aefee3b2235634505a1ffd48baf720c4ada2f24afb9e9844235ca9028327350470a43de676ae7dfa3042b6b63ad62f17b9bdf",
+          "sha256": "b9af5ebe221f70ab79ac0b7058700ec881f1337c1f04856346985396812b301b",
+          "sha1": "937cc33892c86766b2ab6eebd2cc4f1d7d40f700",
+          "md5": "dbaeb14b8eac528229b4ba85c122ad0c"
         }
       ]
     },
@@ -174,11 +174,11 @@
         {
           "name": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
           "url": "ait-extras-1.1.0-dev+mc.1.20.1.jar",
-          "size": 12946562,
-          "sha512": "c19b91a16c5ac23f60d37b9b52c35a3358f9dce350c3a11b7ac7574660480278ab46aa9693a7e2f693340c591c0e66ec1db5eb48d0a24371489e518326e519a5",
-          "sha256": "87c76348014a471280406b5f1c1d08eff2513a523ac9dc0f9dfcf410004854e4",
-          "sha1": "29f6a9b3a48aeb31bc1d3c1fdb093944a9009f8f",
-          "md5": "c808a12a903ca54df0c36cc10029b36d"
+          "size": 12946637,
+          "sha512": "8eaa4358415fc4df043c851e2e2aefee3b2235634505a1ffd48baf720c4ada2f24afb9e9844235ca9028327350470a43de676ae7dfa3042b6b63ad62f17b9bdf",
+          "sha256": "b9af5ebe221f70ab79ac0b7058700ec881f1337c1f04856346985396812b301b",
+          "sha1": "937cc33892c86766b2ab6eebd2cc4f1d7d40f700",
+          "md5": "dbaeb14b8eac528229b4ba85c122ad0c"
         }
       ]
     }
